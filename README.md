@@ -63,5 +63,4 @@ You can see a complete usage in the demo app.
 See [CONTRIBUTING.md](/CONTRIBUTING.md).
 
 
-
-http://technical-education.com/ , This is my websites, plz visit it , and share your feedback.., Thank you
+https://www.technical-education.com , This is my websites, plz visit it , and share your feedback.., Thank you
